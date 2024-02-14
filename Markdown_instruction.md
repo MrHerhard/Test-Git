@@ -66,6 +66,12 @@
     - Create repository
 2. Создать локальный репозиторий
 3. Подружить локальный и удаленный репозитории
+    - git remote add origin https://github.com/MrHerhard/Test-Git.git
+    - git branch -M master
+    - git push -u origin master
+    - Allow в окне
+    - Authorize
+    - Password
 4. Отправить (push) локальный репозиторий в удаленный
 5. Провести изменения на удаленном
 6. Выкачать (pull) актуальное состояние из удаленного на локальный
